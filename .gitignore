@@ -1,0 +1,9 @@
+adiencedb/
+models/train_val_test_per_fold_agegender/*
+*.err
+*.out
+tfrecord/train_val_test_per_fold_agegender/*
+__pycache__/
+run.sh
+run2.sh
+run_test.sh
